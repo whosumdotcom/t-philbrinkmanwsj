@@ -1,0 +1,23 @@
+{
+  "TermsOfServiceVersion": 1,
+  "TermsAgreedToWhen": "2023-04-21T02:42:30Z",
+  "IdClaims": [
+    {
+      "Claim": "t:philbrinkmanwsj"
+    },
+    {
+      "Claim": "yt:@philbrinkman"
+    }
+  ],
+  "IdDisclaims": null,
+  "Signature": {
+    "Authority": "https://whosum.com",
+    "PublicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApF0NC9C13limzP9H5\u002BcXoWEddOfjDdysecEWNhNxS3yCWdRJjsCpIWY3euUxIFWw9W9Zkbo1tx8YbnLVdCPd7qORelTZZR5I9IvQdsyyqZIeAuw4xk/VcK119Kme13cqhsjOtgCrdekjz5YEklZqXdZKclJMc2fqHjOfHl07lYXWmqx8FxCUjjGCkBcr4WZD/uvs0SXRACkXS01bP0Wbao1sHxyFoADHV5i8Yvg2o32Sy37DMMMOfjO8ZpqqwNKVEs04gGL\u002BnGkDqNP/6lIaTinrzCJe57qcorGcVlWGdV4nC5uMgIgqZ/7pzrCHF5WbXai3g3AObmPJ5eG8TCTsrQIDAQAB",
+    "Nonce": "c189c2c630e739b8929ee1e4",
+    "Timestamp": "2023-04-21T02:47:27Z",
+    "Signature": "8298f15166a34731048cda472c69fc0b1eaa73b22c10b1ff7d39c9a77e4accc2ba1b71c539b3d9a7ab37e84bcea2c9cbb99bbc091f376a76b289fd0e79adbd73cdd56ab0b61b7016197411828400c53bb90f9eb932a85897c45ca83cd199a3b9f07ec3d7fc3be1199cec67c217e19c340a45684365fc570a46d6a9a5c3ce9c8d652c89662c09e7f73d9b7e2fa225d4ab14a8bad05b817d0ccc93546bce981284b7a31ba518a935fb174bebce0089dde708913b408e55c35e556474b3094e8ba478b6908253b41e65f2613b6c363a9215584fe10113de8cc0f8251f893ef81367c6bc4fb0ef1a2e1f00372b798b3e134f010444fbd35aaf51c14248fc1a54b8af"
+  },
+  "AgreedToTerms": true,
+  "ContentSha256": "525fad9d78602891d358d6c4f5279421244560fea82f9467b1900063f98191e8",
+  "ContentToHash": "v1|t:philbrinkmanwsj,yt:@philbrinkman|2023-04-21T02:42:30Z"
+}
